@@ -1,5 +1,5 @@
 #sample code for the purpose of showcasing github skills
-TAX_RATE = 0.025
+TAX_RATE = 0.04
 GREETING = "Thanks for shopping at Insert Shop Name!"
  
  
@@ -15,6 +15,7 @@ def main():
     for price in items:
         print(f"Item: ${price:.2f}")
 
+    print(f"Tax Rate: {TAX_RATE * 100:.1f}%")
     print(f"Total: ${calculate_total(items):.2f}")
  
  
