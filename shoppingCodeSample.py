@@ -1,5 +1,5 @@
 #sample code for the purpose of showcasing github skills
-TAX_RATE = 0.04
+TAX_RATE = 0.1
 GREETING = "Thanks for shopping at Insert Shop Name!"
  
  
