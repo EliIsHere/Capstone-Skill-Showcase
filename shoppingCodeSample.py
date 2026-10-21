@@ -1,6 +1,6 @@
 #sample code for the purpose of showcasing github skills
-TAX_RATE = 0.1
-GREETING = "Thanks for shopping at Insert Shop Name!"
+TAX_RATE = 0.123
+GREETING = "Thanks for shopping at  Shop Name!"
  
  
 def calculate_total(prices):
